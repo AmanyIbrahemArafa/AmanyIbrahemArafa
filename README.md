@@ -1,10 +1,6 @@
 <p align="center">
   <img src="./profile-banner.jpg" alt="Profile Banner" width="100%">
 </p>
-<p align="center">
-  <img src="./profile-banner.jpg" alt="Profile Banner" width="100%">
-</p>
-
 <br>
 
 <p align="center">
