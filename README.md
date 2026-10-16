@@ -3,5 +3,5 @@
 
 Here are some ideas to get you started:
 <p align="center">
-  ![](./profile-banner.jpg)
+  <img src="./profile-banner.jpg" alt="Profile Banner" width="100%">
 </p>
