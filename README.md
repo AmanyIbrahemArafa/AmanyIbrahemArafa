@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.jpg" alt="Profile Banner" width="80%">
+  <img src="./profile-banner.jpg" alt="Profile Banner" width="70%">
 </p>
 <br>
 
